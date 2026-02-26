@@ -1,0 +1,28 @@
+# Environment variables
+.env
+.env.backend
+.env.frontend
+
+# Documents and lists
+documents/
+todo.md
+sample_data.json
+
+# Python
+__pycache__/
+*.py[cod]
+*$py.class
+venv/
+.venv/
+env/
+.env/
+
+# Node.js
+node_modules/
+dist/
+build/
+.eslintcache
+
+# OS specific
+.DS_Store
+Thumbs.db
